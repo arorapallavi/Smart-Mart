@@ -1,2 +1,6 @@
-laptop 10 40000
-book 8 60
+laptop 12 40000
+book 10 75
+phone 10 7000
+pen 21 25
+bag 29 950
+cover 21 200
